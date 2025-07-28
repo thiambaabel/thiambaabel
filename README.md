@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiambaabel
-- 👀 I’m interested in softmare
+- 👀 I’m interested in software
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me thiambaabel@gmail.com
